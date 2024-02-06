@@ -1,0 +1,4 @@
+UI_FR = {
+	UI_NRK_RandomRegion_MapName = "Aléatoire"
+	UI_NRK_RandomRegion_MapDesc = "Démarrer dans une ville sélectionnée aléatoirement. <LINE> Où vous trouverez vous cette fois-ci?"
+}
